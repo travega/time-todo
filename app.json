@@ -1,0 +1,8 @@
+{
+  "name": "Time Todo App",
+  "description": "A simple Ionic 2 and MEAN Todo demo App",
+  "repository": "https://github.com/travega/time-todo",
+  "logo": "http://ionicframework.com/img/ionic-logo-blog.png",
+  "keywords": ["ionic 2", "Angular 2", "node", "express", "heroku", "static"],
+  "addons": ["mongolab"]
+}
